@@ -1,16 +1,20 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![JOJOXAI](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/JOJOXAI)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
-
+He is currently pursuing his PhD in Computer Science at the School of Information Science and Technology, Tibet University,Lhasa,China.
 #### Email
-sli[at]cumt.edu.cn
+jojoxia98[at]gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Educational Technology, Department of Artificial Intelligence Education, Central China Normal University,Wuhan,China.(Master)\
+
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Computer vision(image classification, target detection, image segmentation), Multi-modal intelligence,Calculation of cultural heritage
 
+#### PROJECTS
+
+
+#### IP(Intellectual Property)
+Method and system for automatic recognition of dzi bead images based on improved convolutional neural network.\

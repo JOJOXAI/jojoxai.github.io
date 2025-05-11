@@ -7,14 +7,14 @@ He is currently pursuing his PhD in Computer Science at the School of Informatio
 jojoxia98[at]gmail.com
 
 #### Education
-Educational Technology, Department of Artificial Intelligence Education, Central China Normal University,Wuhan,China.(Master)\
+Educational Technology, Department of Artificial Intelligence Education, Central China Normal University,Wuhan,China.(Master)
 
 
 #### Research Interests
-Computer vision(image classification, target detection, image segmentation), Multi-modal intelligence,Calculation of cultural heritage
+Computer vision(image classification, target detection, image segmentation), Multi-modal intelligence,Calculation of cultural heritage.
 
 #### PROJECTS
-
+National Natural Science Foundation of China.
 
 #### IP(Intellectual Property)
-Method and system for automatic recognition of dzi bead images based on improved convolutional neural network.\
+Method and system for automatic recognition of dzi bead images based on improved convolutional neural network.

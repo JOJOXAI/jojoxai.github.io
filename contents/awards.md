@@ -1,2 +1,2 @@
 - First-prize Scholarship of TU, 2022-2024.
-- 
+- First-prize Scholarship of CCNU, 2015-2017.

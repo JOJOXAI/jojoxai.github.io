@@ -88,7 +88,7 @@ section .main-body{
 }
 
 
-#avatar {
+#avatar {bg-gradient-primary-to-secondary-light
     position: relative;
     height: 0;
     top:min(-65px,max(-100px,calc(-1*100vw/12)));

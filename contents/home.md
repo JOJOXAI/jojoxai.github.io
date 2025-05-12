@@ -14,8 +14,5 @@ Educational Technology, Department of Artificial Intelligence Education, Central
 Computer vision(image classification, target detection, image segmentation), Multi-modal intelligence, Calculation of cultural heritage.
 
 
-#### Project
-National Natural Science Foundation of China.
-
 #### IP(Intellectual Property):
 Method and system for automatic recognition of dzi bead images based on improved convolutional neural network.

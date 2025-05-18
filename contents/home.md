@@ -13,6 +13,3 @@ Educational Technology, Department of Artificial Intelligence Education, Central
 #### Research Interests
 Computer vision(image classification, target detection, image segmentation), Multi-modal intelligence, Calculation of cultural heritage.
 
-
-#### IP(Intellectual Property):
-Method and system for automatic recognition of dzi bead images based on improved convolutional neural network.

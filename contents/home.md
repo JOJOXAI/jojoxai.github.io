@@ -2,7 +2,7 @@
 
 [![JOJOXAI](https://img.shields.io/badge/jojoxai-github-blue?logo=github)](https://github.com/JOJOXAI)
 
-He is currently pursuing a Ph.D. degree in Computer Science at the School of Information Science and Technology, Tibet University,Lhasa,China.IEEE Member, CCF Member.
+He is currently pursuing a Ph.D. degree in Computer Science at the School of Information Science and Technology, Tibet University,Lhasa,China.IEEE Member, CCF Member,Reviewers for IEEE SMC and ICME.
 #### Email
 jojoxia98@gmail.com
 
